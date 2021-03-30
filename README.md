@@ -40,4 +40,4 @@ Setelah mengclone code ketikkan perintah berikut pada terminal
 Ketikkan perintah berikut pada terminal
 
 ### `npm start`
-Webserver akan berjalan pada port 3000 localhost:3000
+Webserver akan berjalan pada port 3000 `localhost:3000`
