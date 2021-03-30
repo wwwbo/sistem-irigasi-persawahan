@@ -19,6 +19,8 @@ PC sudah terinstall `Python` versi 2/3 dan `MySQL`
 
 ## Membuat prototype
 
+![prototype-fritzing](https://user-images.githubusercontent.com/43309487/112944349-e7635e80-915c-11eb-984c-3996707ca32c.png)
+
 
 ## Menjalankan program
 Untuk menjalan program tuliskan pada terminal
