@@ -140,7 +140,7 @@ def main():
         print("Kelembaban Tanah: ", outputSoil, "%")
         print("Status: ", grade)
         print("="*30)   
-        time.sleep(10)
+        time.sleep(5)
         
 # memanggil fungsi main()
 if __name__ == '__main__':
